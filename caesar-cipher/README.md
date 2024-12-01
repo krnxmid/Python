@@ -19,13 +19,6 @@ A Python-based tool to encode and decode text using a Caesar cipher. This progra
 3. **Select Mode**:
    - `e`: Encode the word.
    - `d`: Decode the word.
-
-## Example
-### Encode:
-![image](https://github.com/user-attachments/assets/6b790869-b7b1-481f-95da-7edcb8fdad71)
-### Decode:
-![image](https://github.com/user-attachments/assets/8c99c183-ed95-4e0d-8a42-d3cb1b9a9a92)
-
 ---
 
 ## Prerequisites
